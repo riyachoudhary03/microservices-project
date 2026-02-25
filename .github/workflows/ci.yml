@@ -72,6 +72,6 @@ jobs:
 
 
       # 6️⃣ Build Docker Containers
-      # - name: Build Containers
-      #   run: |
-      #     docker compose build
+      - name: Build Containers
+        run: |
+          docker compose build
