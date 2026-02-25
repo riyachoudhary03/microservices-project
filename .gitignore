@@ -5,5 +5,5 @@ venv/
 .env.*
 node_modules/
 .git
-Dockerfile*
+
 docker-compose.override.yml
